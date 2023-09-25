@@ -1,0 +1,10 @@
+let modelsJson = [
+    { id: 1, name: 'Berlim', img: 'img/internacional/berlim.jpg', price: [1221, 2242, 3663], sizes: ['1/72', '1/48', '1/32'], description: 'Berlim está situada no nordeste da Alemanha, em uma área de baixa altitude, de florestas pantanosas. ' },
+    { id: 2, name: 'Paris', img: 'img/internacional/paris.jpg', price: [1450, 2900, 4350], sizes: ['1/72', '1/48', '1/32'], description: 'Paris  é um país escandinavo que abrange a península Jutlândia e várias ilhas.' },
+    { id: 3, name: 'Las vegas', img: 'img/internacional/lasvegas.jpg', price: [945, 1890, 2835], sizes: ['1/72', '1/48', '1/32'], description: 'Las Vegas, localizada no deserto de Mojave, em Nevada, é uma cidade turística famosa pela vida noturna vibrante.' },
+    { id: 4, name: 'Mexico', img: 'img/internacional/mexico.jpg', price: [2456, 4912, 7368], sizes: ['1/72', '1/48', '1/32'], description: 'Porto de Galinhas é uma praia localizada no distrito homônimo, pertencente ao município de Ipojuca' },
+    { id: 5, name: 'Roma', img: 'img/internacional/roma.jpg', price: [5890, 11780, 17610], sizes: ['1/72', '1/48', '1/32'], description: 'Roma, a capital da Itália, é uma cidade cosmopolita, enorme, com quase 3.000 anos de arte.' },
+    { id: 6, name: 'Orlando', img: 'img/internacional/orlando.jpg', price: [5620, 11290, 16860], sizes: ['1/72', '1/48', '1/32'], description: 'Orlando é uma cidade localizada no estado norte-americano da Flórida. A cidade está localizada na região.' },
+    { id: 7, name: 'Nova york', img: 'img/internacional/novayork.jpg', price: [780, 1560, 2340], sizes: ['1/72', '1/48', '1/32'], description: 'Mexico possui um dos maiores parques fabris da América, além disso, é um dos principais centros do turismo mundial.' },
+    { id: 8, name: 'Japão', img: 'img/internacional/japao.jpg', price: [4500, 9000, 13500], sizes: ['1/72', '1/48', '1/32'], description: 'Japão, país insular no Oceano Pacífico, tem cidades densas, palácios imperiais.' },
+];

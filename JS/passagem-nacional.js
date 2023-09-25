@@ -1,0 +1,9 @@
+let modelsJson = [
+    { id: 1, name: 'Natal', img: 'img/nacional/natal.jpg', price: [1221, 2242, 3663], sizes: ['1/72', '1/48', '1/32'], description: 'Natal é a capital do estado de Rio Grande do Norte, na extremidade nordeste do Brasil. ' },
+    { id: 2, name: 'Porto Seguro', img: 'img/nacional/portoseguro.jpg', price: [1450, 2900, 4350], sizes: ['1/72', '1/48', '1/32'], description: 'Porto Seguro é uma estância turística costeira no estado brasileiro da Bahia que tem a Praia de Taperapuãn.' },
+    { id: 3, name: 'Fortaleza', img: 'img/nacional/fortaleza.jpg', price: [945, 1890, 2835], sizes: ['1/72', '1/48', '1/32'], description: 'Fortaleza é um município brasileiro, capital do estado do Ceará, situado na região Nordeste do país.' },
+    { id: 4, name: 'Porto de Galinhas', img: 'img/nacional/portogalinhas.jpg', price: [2456, 4912, 7368], sizes: ['1/72', '1/48', '1/32'], description: 'Porto de Galinhas é uma praia localizada no distrito homônimo, pertencente ao município de Ipojuca' },
+    { id: 5, name: 'São Paulo', img: 'img/nacional/saopaulo.jpg', price: [5890, 11780, 17610], sizes: ['1/72', '1/48', '1/32'], description: 'São Paulo é uma das 27 unidades federativas do Brasil. Está situado na Região Sudeste.' },
+    { id: 6, name: 'Rio de Janeiro', img: 'img/nacional/riojaneiro.jpg', price: [5620, 11290, 16860], sizes: ['1/72', '1/48', '1/32'], description: 'O Rio de Janeiro é uma grande cidade brasileira à beira-mar, famosa pelas praias de Copacabana e Ipanema' },
+    { id: 7, name: 'Espirito Santo', img: 'img/nacional/espiritosanto.jpg', price: [780, 1560, 2340], sizes: ['1/72', '1/48', '1/32'], description: 'O Espírito Santo, estado da região Sudeste do Brasil, é conhecido por suas praias tropicais.' },
+];
