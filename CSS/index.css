@@ -84,7 +84,7 @@ main {
   background-image: url(../img/fundo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 200px;
+  padding: 100px;
 }
 
 .top-main {
